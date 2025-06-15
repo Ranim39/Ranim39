@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ranime and I'm an IoT student</p>
+<p align="left">My name is Ranim and I'm an IoT student</p>
 
 ###
 
