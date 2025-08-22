@@ -2,7 +2,6 @@
 
 ###
 
-<p align="left">My name is Ranim and I'm an IoT student</p>
 
 ###
 
@@ -14,7 +13,6 @@
 ✨ <strong>Creating bugs since</strong>: I started coding <br>
 📚 <strong>Currently learning</strong>: CSS, HTML, JavaScript, and exploring Machine Learning & Cybersecurity <br>
 🎯 <strong>Goals</strong>: To master web development, build impactful projects, and grow in the field of AI & security <br>
-🎲 <strong>Fun fact</strong>: I’m an IoT enthusiast who enjoys databases and loves exploring smart systems!</p>
 
 ###
 
