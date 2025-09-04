@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up</h1>
 
 ###
 
@@ -10,7 +10,6 @@
 ###
 
 <p align="left">
-✨ <strong>Creating bugs since</strong>: I started coding <br>
 📚 <strong>Currently learning</strong>: CSS, HTML, JavaScript, and exploring Machine Learning & Cybersecurity <br>
 🎯 <strong>Goals</strong>: To master web development, build impactful projects, and grow in the field of AI & security <br>
 
