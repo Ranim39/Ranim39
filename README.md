@@ -1,23 +1,27 @@
-<h1 align="left">Hey 👋 What's up</h1>
+<h1 align="left">Hey 👋 I'm Ritej</h1>
 
-###
+###  
+🌐 *Web Developer & Cybersecurity Enthusiast*  
+💡 *IoT Student passionate about building creative & impactful tech solutions*
 
+---
 
-###
+## 👩‍🎓 About Me
 
-<h2 align="left">About me</h2>
+📚 **Currently learning:**  
+Web development (HTML, CSS, JS), Cybersecurity, Machine Learning, and IoT systems
 
-###
+🎯 **Goals:**  
+- Master full-stack web development  
+- Build real-world AI & cybersecurity projects  
+- Become a creative problem solver in IoT & emerging technologies  
 
-<p align="left">
-📚 <strong>Currently learning</strong>: CSS, HTML, JavaScript, and exploring Machine Learning & Cybersecurity <br>
-🎯 <strong>Goals</strong>: To master web development, build impactful projects, and grow in the field of AI & security <br>
+🛠️ **What I enjoy:**  
+Creating smart solutions, learning new tools, and working in collaborative tech environments
 
-###
+---
 
-<h2 align="left">I code with</h2>
-
-###
+## 🧰 Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -40,3 +44,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=security" height="40" alt="cybersecurity logo" />
 </div>
+
+---
+
+## 🚀 Current Projects
+
+- **The Cookie** 🍪 (your academic project)  
+- Cybersecurity risk-management labs  
+- Web development practice projects  
+- IoT prototypes and small embedded systems demos  
+
+---
+
+
