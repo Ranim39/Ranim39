@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 I'm Ranim</h1>
 
-<h3 align="left">💻 Student in Information Systems Engineering | Web & Mobile Dev • AI • Cybersecurity • IoT</h3>
+<h3 align="left">💻 Student in Information Systems Engineering | Web & Mobile Dev • AI • Cybersecurity </h3>
 
 ---
 
@@ -13,7 +13,6 @@ I love building creative projects, learning new technologies, and solving real-w
 ## 🚀 What I'm Working On
 - Web & mobile applications  
 - AI and machine learning mini-projects  
-- IoT prototypes and embedded systems  
 - Cybersecurity labs & secure systems
 
 ---
@@ -41,7 +40,6 @@ I love building creative projects, learning new technologies, and solving real-w
 - AI & Deep Learning  
 - Mobile apps (Flutter / Android)  
 - Cybersecurity & Linux  
-- IoT & embedded systems  
 - Creative problem-solving  
 
 ---
