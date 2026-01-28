@@ -1,15 +1,8 @@
 <h1 align="left">Hey 👋 I'm Ranim</h1>
 
-<h3 align="left">💻 Student in Information Systems Engineering | Web & Mobile Dev • AI • Cybersecurity </h3>
+<h3 align="left">💻 Student in Information Systems Engineering </h3>
 
 ---
-
-## 🌟 About Me
-I'm a computer systems engineering student passionate about web & mobile development, AI, IoT, and cybersecurity.  
-I love building creative projects, learning new technologies, and solving real-world problems.
-
----
-
 ## 🚀 What I'm Working On
 - Web & mobile applications  
 - AI and machine learning mini-projects  
