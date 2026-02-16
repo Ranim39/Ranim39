@@ -31,7 +31,6 @@
 
 ## 📌 Interests
 - AI & Deep Learning  
-- Mobile apps (Flutter / Android)  
 - Cybersecurity & Linux  
 - Creative problem-solving  
 
