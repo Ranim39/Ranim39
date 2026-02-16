@@ -37,5 +37,5 @@
 ---
 
 ## 🌐 Find Me Online  
-[GitHub](https://github.com/your-github-username) • [LinkedIn](https://www.linkedin.com/in/your-linkedin-url)  
+[LinkedIn](https://www.linkedin.com/in/ranim-ben-chaouacha-286b0b2b3/)  
 
